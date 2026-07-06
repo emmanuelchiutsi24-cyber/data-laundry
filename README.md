@@ -20,5 +20,4 @@ An automated, flexible data cleaning and profiling workbench built to handle dir
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/xander-matrix/data-laundry.git](https://github.com/xander-matrix/data-laundry.git)
-   cd data-laundry
+   git clone [https://github.com/https://github.com/emmanuelchiutsi001-cpu/data-laundry)
